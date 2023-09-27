@@ -1,6 +1,10 @@
 const app = Vue.createApp({
     data() {
         return {
+            today: new Date(),
+            openDate: new Date(2023, 9, 10),
+
+
             items: {
                 regular: {
                     name: "Regular",
@@ -16,6 +20,13 @@ const app = Vue.createApp({
         }
     },
     methods: {
+        isOpen(){
+            if(this.openDate>this.today){
+                return false
+            }else{
+                return true
+            }
+        },
     }
 })
 
