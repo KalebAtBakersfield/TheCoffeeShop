@@ -24,7 +24,7 @@ h1 .material-symbols-outlined {
 *{
     margin: 0px;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    transition: all 100ms;
+    transition: all 250ms;
     transition-delay: all 250ms;
 }
 body{
