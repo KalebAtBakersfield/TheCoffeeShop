@@ -1,21 +1,8 @@
-d=document
-today = new Date()
-openDate = new Date(2023,9,10)
-
-if (openDate>today){
-    eee=false
-}else{
-    eee=true
-}
-
-
 const app = Vue.createApp({
     data() {
         return {
             today: new Date(2024,9),
             openDate: new Date(2023, 9, 10),
-            isOpen: eee,
-            isNotOpen: !eee,
 
 
             items: {
