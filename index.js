@@ -12,9 +12,9 @@ const app = Vue.createApp({
                     description: "Regular cuppa joe.",
                 },
                 specialty: {
-                    name: "No Specialty",
+                    name: "Specialty",
                     price: 3,
-                    description: "Specialty coffee is not avaliable right now but you never know when it will be avaliable again.",
+                    description: "Periodically we will have specialty coffee. We will let you know when it will be avaliable.",
                 },
             }
         }
