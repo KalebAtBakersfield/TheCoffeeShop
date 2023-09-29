@@ -51,6 +51,8 @@ h1{
     background-color: var(--lion-blue);
     color: white;
     font-size: 5em;
+}
+.header{
     text-align: center;
 }
 .grid-container {
