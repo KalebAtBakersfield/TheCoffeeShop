@@ -53,7 +53,7 @@ h1{
     font-size: 5em;
 }
 .header{
-    text-align: center;
+    align-items: center;
 }
 .grid-container {
     display: grid;
