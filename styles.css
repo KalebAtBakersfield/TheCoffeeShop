@@ -1,7 +1,7 @@
 :root {
     --lion-blue:#3743f0;
     --light-blue:#e3e3ff;
-    --light-brown: #e6ad58;
+    --secondary: #747cf2;
 }
 .material-symbols-outlined {
     font-variation-settings:
@@ -41,7 +41,7 @@ p {
     text-align: justify;
 }
 h2,h3 {
-    background-color: var(--light-brown);
+    background-color: var(--secondary);
     font-style: italic;
 }
 h1,h2,h3{
