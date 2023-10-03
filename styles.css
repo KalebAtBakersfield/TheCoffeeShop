@@ -11,6 +11,9 @@
     'opsz' 5em;
     font-size: inherit;
 }
+h1 .material-symbols-outlined {
+    font-size: inherit;
+}
 .grid-item:hover .material-symbols-outlined {
     font-variation-settings:
     'FILL' 1,
