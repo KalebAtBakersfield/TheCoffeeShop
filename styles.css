@@ -78,3 +78,9 @@ iframe{
     width: 100%;
     height: 90%;
 }
+.announcement {
+    background-color: rgb(255, 155, 155) !important;
+}
+.announcement h2 {
+    background-color: red !important;
+}
