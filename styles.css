@@ -82,3 +82,8 @@ iframe{
 .announcement h2 {
     background-color: red !important;
 }
+
+.ver-num {
+    font-family: monospace;
+    font-style: italic;
+}
