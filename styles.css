@@ -33,7 +33,7 @@ body{
     text-align: left;
 }
 
-p {
+p, li{
     margin: 15px;
     font-size: 1.5em;
     text-align: justify;
