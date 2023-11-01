@@ -56,8 +56,8 @@ h1{
 .grid-container {
     display: grid;
     grid-template-columns: 30% 40% 30% ;
-    gap: 10px;
-    margin: 25px;
+    gap: 5px;
+    margin: 10px;
     height: 65%;
 }
 .grid-item, .about {
